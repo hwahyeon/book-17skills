@@ -15,6 +15,7 @@
 |No|목차|비고|
 |---|---|---|
 |03|[날짜와 시간](https://github.com/hwahyeon/17skills/blob/main/03.time.ipynb)||
+|04|[정규표현식](https://github.com/hwahyeon/17skills/blob/main/04.regex.ipynb)||
 |06|[난수](https://github.com/hwahyeon/17skills/blob/main/06.random.ipynb)||
 |07|[해시 함수](https://github.com/hwahyeon/17skills/blob/main/07.hash.ipynb)||
 |14|HTTP|블로그에 정리함|
