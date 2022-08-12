@@ -14,4 +14,9 @@
 ### 목차
 |No|목차|비고|
 |---|---|---|
+|06|[난수](https://github.com/hwahyeon/17skills/blob/main/06%20random.ipynb)||
 |07|[해시 함수](https://github.com/hwahyeon/17skills/blob/main/07%20hash.ipynb)||
+|14|HTTP|블로그에 정리함|
+|15|RESTful API|복습 요망|
+|16|HTTPS||
+|17|OAuth 2.0||
