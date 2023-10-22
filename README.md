@@ -1,25 +1,31 @@
 # 학교에서 알려주지 않는 17가지 실무 개발 기술
 
-* 책을 읽으며 공부한 내용을 요약하고 실습하였음.  
-* 실습은 Python3을 사용하였음.
-* 책에 나온 코드는 [여기](https://github.com/sorrowhill/17techs)에 공개되었음을 밝힘.
+`i18n` `Regex` `UUID` `Random` `hash` `JSON` `YAML` `XML` `Protocol` `Base64` `zlib` `HTTP` `RESTful API` `HTTPS` `OAuth 2.0`
 
-### 정보
-* 저자 : 이기곤
+## 개요
 
-### 목적
-* 실무 개발 기술 이해도 함양
+이 저장소는 **학교에서 알려주지 않는 17가지 실무 개발 기술**의 학습 내용이 정리되어 있습니다.
 
+<img src="./assets/cover.jpg" alt="Cover" width="200">
 
-### 목차
+> 이기곤
+
+## 학습 목표
+- 실무 개발 기술 이해도 함양
+- 웹 필수 지식 함양
+
+## 학습 내용
 |No|목차|비고|
 |---|---|---|
-|03|[날짜와 시간](https://github.com/hwahyeon/17skills/blob/main/03.time.ipynb)||
-|04|[정규표현식](https://github.com/hwahyeon/17skills/blob/main/04.regex.ipynb)||
-|05|[범용 고유 식별자](https://github.com/hwahyeon/17skills/blob/main/05.uuid.ipynb)||
-|06|[난수](https://github.com/hwahyeon/17skills/blob/main/06.random.ipynb)||
-|07|[해시 함수](https://github.com/hwahyeon/17skills/blob/main/07.hash.ipynb)||
+|03|[날짜와 시간](./03.time.ipynb)||
+|04|[정규표현식](./04.regex.ipynb)||
+|05|[범용 고유 식별자](./05.uuid.ipynb)||
+|06|[난수](./06.random.ipynb)||
+|07|[해시 함수](./07.hash.ipynb)||
 |14|HTTP|블로그에 정리함|
 |15|RESTful API|복습 요망|
 |16|HTTPS||
 |17|OAuth 2.0||
+
+## 참고 자료
+[공개 코드](https://github.com/sorrowhill/17techs)
